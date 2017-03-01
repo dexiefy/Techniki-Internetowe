@@ -17,13 +17,13 @@
 
 ## Zadanie trzecie, do 09.04.2017
  
-+[ ] Responsywne tabele.
++ [ ] Responsywne tabele.
 
-+[ ] Zapoznać się z notacją Markdown:
++ [ ] Zapoznać się z notacją Markdown:
 
 ## Zadanie czwarte, 22.04.2017
 
-+[ ]Przygotować stronę ze wzorami matematycznymi.
++ [ ]Przygotować stronę ze wzorami matematycznymi.
 
-+[ ]Matematykę na stronach wpisać w notacji MathJax.
++ [ ]Matematykę na stronach wpisać w notacji MathJax.
 
