@@ -23,7 +23,7 @@
 
 ## Zadanie czwarte, 22.04.2017
 
-+ [ ]Przygotować stronę ze wzorami matematycznymi.
++ [ ] Przygotować stronę ze wzorami matematycznymi.
 
-+ [ ]Matematykę na stronach wpisać w notacji MathJax.
++ [ ] Matematykę na stronach wpisać w notacji MathJax.
 
