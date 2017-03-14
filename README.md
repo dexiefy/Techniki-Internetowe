@@ -1,6 +1,6 @@
-# [Techniki-Internetowe] (https://github.com/h5c3j/ti)
+# [Techniki-Internetowe](https://github.com/h5c3j/ti)
 
-## [Zadanie pierwsze, do 05.03.2017] (https://github.com/dexiefy/TiZad1)
+## [Zadanie pierwsze, do 05.03.2017](https://github.com/dexiefy/TiZad1)
 
 + [x] Utworzyć repozytorium na rozwiązania zadań. Link do repozytorium oraz link do stron HTML z rozwiązaniami wpisać w pliku [projects.md] (https://github.com/h5c3j/ti/blob/master/projects.md)
 
