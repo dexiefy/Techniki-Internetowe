@@ -1,6 +1,6 @@
 # [Techniki-Internetowe](https://github.com/h5c3j/ti)
 
-## [Zadanie pierwsze, do 05.03.2017](https://github.com/dexiefy/TiZad1)
+## [Zadanie pierwsze, do 05.03.2017](https://dexiefy.github.io/Techniki-Internetowe/cern.html)
 
 + [x] Utworzyć repozytorium na rozwiązania zadań. Link do repozytorium oraz link do stron HTML z rozwiązaniami wpisać w pliku [projects.md](https://github.com/h5c3j/ti/blob/master/projects.md)
 
@@ -10,11 +10,11 @@
 
 + [x] Do pierwszej strony internetowej, dodać google map wskazujacy na [CERN](https://dexiefy.github.io/TiZad1/)
 
-## Zadanie drugie, do 22.02.2017
+## [Zadanie drugie, do 22.02.2017](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html)
 
-+ [ ] Przejrzeć dokumentację GeoJSON. Napisać kilka geojsonów i przetestować je na tej stronie: Simply edit GeoJSON map data.
++ [x] Przejrzeć dokumentację GeoJSON. Napisać kilka geojsonów i przetestować je na tej stronie: Simply edit GeoJSON map data.
 
-+ [ ] Utworzyć stronę z mapką korzystającą biblioteki Leaflet.
++ [x] Utworzyć stronę z mapką korzystającą biblioteki Leaflet.
 
 ## Zadanie trzecie, do 09.04.2017
  
