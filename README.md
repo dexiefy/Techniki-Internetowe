@@ -12,9 +12,9 @@
 
 ## [Zadanie drugie, do 22.02.2017](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html)
 
-+ [x] Przejrzeć dokumentację GeoJSON. Napisać kilka geojsonów i przetestować je na tej stronie: Simply edit GeoJSON map data.
++ [x] Przejrzeć dokumentację GeoJSON. Napisać kilka geojsonów i przetestować je na tej stronie: [Simply edit GeoJSON map data.](http://geojson.io/)
 
-+ [x] Utworzyć stronę z mapką korzystającą biblioteki Leaflet.
++ [x] Utworzyć stronę z mapką korzystającą biblioteki [Leaflet.](http://leafletjs.com/)
 
 ## Zadanie trzecie, do 09.04.2017
  
