@@ -3,14 +3,14 @@
 ## Linki do rozwiązań
 
 ### [Mapka Cern](https://dexiefy.github.io/Techniki-Internetowe/cern.html)
-+ [html](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/cern.html)
++ [html source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/cern.html)
 
 ### [geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html)
-+ [html](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/geoJSON.html)
++ [html source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/geoJSON.html)
 + [geojson](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/Assets/gjson.js)
 
 ### [Responsywne obrazki przy uzyciu gulpa](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html)
-+ [html](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/responsiveimages.html)
++ [html source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/responsiveimages.html)
 + [gulpfile.js](https://github.com/dexiefy/Techniki-Internetowe/blob/master/gulpfile.js)
 + [image folder](https://github.com/dexiefy/Techniki-Internetowe/tree/master/docs/Assets/Images)
 + ![wydruk konsoli]()
