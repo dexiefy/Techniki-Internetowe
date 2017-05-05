@@ -1,0 +1,27 @@
+{
+  "name": "gulp_project",
+  "version": "1.0.0",
+  "description": "gulp project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexiefy/Techniki-internetowe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexiefy/Techniki-internetowe/issues"
+  },
+  "homepage": "https://github.com/dexiefy/Techniki-internetowe#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-jshint": "^2.0.4",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "gulp-responsive": "latest"
+  }
+}
