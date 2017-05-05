@@ -1,6 +1,6 @@
 # [Techniki-Internetowe](https://github.com/h5c3j/ti)
 
-## [Zadanie pierwsze, do 05.03.2017](https://dexiefy.github.io/Techniki-Internetowe/cern.html)
+## [Zadanie pierwsze- mapka CERN](https://dexiefy.github.io/Techniki-Internetowe/cern.html)
 
 + [x] Utworzyć repozytorium na rozwiązania zadań. Link do repozytorium oraz link do stron HTML z rozwiązaniami wpisać w pliku [projects.md](https://github.com/h5c3j/ti/blob/master/projects.md)
 
@@ -10,17 +10,18 @@
 
 + [x] Do pierwszej strony internetowej, dodać google map wskazujacy na [CERN](https://dexiefy.github.io/TiZad1/)
 
-## [Zadanie drugie, do 22.02.2017](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html)
+## [Zadanie drugie- geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html)
 
 + [x] Przejrzeć dokumentację GeoJSON. Napisać kilka geojsonów i przetestować je na tej stronie: [Simply edit GeoJSON map data.](http://geojson.io/)
 
 + [x] Utworzyć stronę z mapką korzystającą biblioteki [Leaflet.](http://leafletjs.com/)
 
-## Zadanie trzecie, do 09.04.2017
+## [Zadanie trzecie- Responsywność](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html)
  
-+ [ ] Responsywne tabele.
++ [x] Resoponsive images using gulp
+   [NPM Gulp responsive](https://www.npmjs.com/package/gulp-responsive-images)
 
-+ [ ] Zapoznać się z notacją Markdown:
++ [ ] Plan zajęć
 
 ## Zadanie czwarte, 22.04.2017
 
