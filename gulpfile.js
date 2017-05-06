@@ -25,23 +25,23 @@ gulp.task('watch', function () {
 gulp.task('images', function () {
   return gulp.src('./docs/Assets/Images/*.{jpg,png}')
     .pipe(responsive({
-      // Convert all images to JPEG format
+      //konwertuje do jpg
       '*': [{
-        // image-medium.jpg is 375 pixels wide
+        // male-360pix
         width: 360,
         rename: {
           suffix: '-small',
           extname: '.jpg',
         },
       }, {
-        // image-large.jpg is 480 pixels wide
+        // srednie 720pix
         width: 720,
         rename: {
           suffix: '-medium',
           extname: '.jpg',
         },
       }, {
-        // image-extralarge.jpg is 768 pixels wide
+        // duze 1080pix
         width: 1080,
         rename: {
           suffix: '-large',
