@@ -11,7 +11,7 @@
 
 ### [Responsywne obrazki przy uzyciu gulpa](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html)
 + [html source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/responsiveimages.html)
-+ [gulpfile.js](https://github.com/dexiefy/Techniki-Internetowe/blob/master/gulpfile.js)
++ [gulpfile.js](https://github.com/dexiefy/Techniki-Internetowe/blob/master/gulpfile.js) //note:add livereload
 + [image folder](https://github.com/dexiefy/Techniki-Internetowe/tree/master/docs/Assets/Images)
 + [wydruk konsoli](https://cloud.githubusercontent.com/assets/3316071/25759644/ad76214a-31d3-11e7-989d-015e536a9c14.jpg)
 
