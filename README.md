@@ -1,4 +1,4 @@
-# [Techniki-Internetowe](https://github.com/h5c)
+# [Techniki-Internetowe](https://github.com/h5c3j/ti)
 
 ## Linki do rozwiązań
 
