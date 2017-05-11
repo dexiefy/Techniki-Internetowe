@@ -1,26 +1,33 @@
 var gulp = require('gulp'),
-  connect = require('gulp-connect');
-  var responsive = require('gulp-responsive');
+  connect = require('gulp-connect'),
+  watch = require('gulp-watch'),
+ responsive = require('gulp-responsive'),
+ livereload = require('gulp-livereload');
+ var webserver = require('gulp-webserver');
 
-
-gulp.task('default', ['connect', 'watch', 'images']);
+ gulp.task('webserver', function() {
+   gulp.src('./')
+     .pipe(webserver({
+       livereload: true,
+       directoryListing: true,
+       open: true
+     }));
+ });
 
 gulp.task('connect', function() {
   connect.server({
     root: 'docs',
-    livereload: true
-  });
+    });
 });
- 
+
 gulp.task('html', function () {
   gulp.src('./docs/*.html')
-    .pipe(connect.reload());
+    .pipe(connect.reload())
+    .pipe(livereload());
 });
- 
-gulp.task('watch', function () {
-  gulp.watch(['./docs/*.html'], ['html']);
-});
- 
+
+
+
 
 gulp.task('images', function () {
   return gulp.src('./docs/Assets/Images/*.{jpg,png}')
@@ -52,4 +59,10 @@ gulp.task('images', function () {
     .pipe(gulp.dest('./docs/Assets/Images'));
 });
 
-
+gulp.task('watch', function () {
+  var server = livereload({ start: true });
+  // livereload.listen();
+    gulp.watch(['./docs/*.html'], ['html']);
+});
+// livereload({ start: true })
+gulp.task('default', ['connect', 'html','webserver', 'watch']);
