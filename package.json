@@ -20,8 +20,12 @@
     "gulp": "^3.9.1",
     "gulp-connect": "^5.0.0",
     "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-reload": "0.0.4",
+    "gulp-responsive": "^2.7.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-webserver": "^0.9.1",
     "jshint": "^2.9.4",
-    "jshint-stylish": "^2.2.1",
-    "gulp-responsive": "latest"
+    "jshint-stylish": "^2.2.1"
   }
 }
