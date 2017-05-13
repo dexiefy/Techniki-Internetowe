@@ -33,6 +33,7 @@
  - [13 - Slide In On Scroll](https://wojsamjan.github.io/slideInOnScroll/)
  - [Plik Żrodłowy](https://github.com/wojsamjan/slideInOnScroll/blob/master/index.html)
 
-Projekty powstały w oparciu o [JS 30 Days Coding challange](https://javascript30.com/)
-[CSS Tricks - Flexbox snippets](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[Flexbox tutorial](https://flexbox.io/)
+### Projekty powstały w oparciu o [JS 30 Days Coding challange](https://javascript30.com/)
+#### Przydatne Linki:
+- [CSS Tricks - Flexbox snippets](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox tutorial](https://flexbox.io/)
