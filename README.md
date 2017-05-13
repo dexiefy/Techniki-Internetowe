@@ -34,5 +34,5 @@
  - [Plik Żrodłowy](https://github.com/wojsamjan/slideInOnScroll/blob/master/index.html)
 
 Projekty powstały w oparciu o [JS 30 Days Coding challange](https://javascript30.com/)
-
-[Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[CSS Tricks - Flexbox snippets](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Flexbox tutorial](https://flexbox.io/)
