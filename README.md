@@ -15,13 +15,12 @@
 + [image folder](https://github.com/dexiefy/Techniki-Internetowe/tree/master/docs/Assets/Images)
 + [wydruk konsoli](https://cloud.githubusercontent.com/assets/3316071/25759644/ad76214a-31d3-11e7-989d-015e536a9c14.jpg)
 
-### Responsywne tabelki - under construction
+### [Responsywne tabelki przy uzyciu flexboxa](https://dexiefy.github.io/Techniki-Internetowe/ResponsiveTables.html)
++ [html source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/ResponsiveTables.html)
++ [css source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/Assets/responsivetables.css)
 
 
-# EGZAMIN
-1. Grupa Mr. Bean
-
-## Skład grupy:
+## Egzamin, grupa 1: "Mr Bean"
 - [Piotr Dzięgielewski](https://github.com/dexiefy)
 - [Wojciech Januszek](https://github.com/wojsamjan)
 
