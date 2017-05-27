@@ -1,0 +1,59 @@
+body {
+    font-size: 14px;
+    background-color: #000000;
+}
+
+#box {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px 50px 50px 50px 50px 50px;
+    align-items: center;
+}
+
+.wzor1, .wzor2, .wzor3, .wzor4, .wzor5, .wzor6{
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;       
+}
+
+.wzor1, .wzor3, .wzor5 {
+    background-color:#FFA500 ;
+}
+
+.wzor2, .wzor4, .wzor6{
+    background-color: #4B0082;
+}
+
+
+@media (min-width: 360px) {
+    body {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 720px) {
+    body {
+        font-size: 18px;
+    }
+    
+    #box {
+        grid-template-rows: 70px 70px 70px 70px 70px 70px ;
+    }
+    
+    .wzor1, .wzor2, .wzor3, .wzor4, .wzor5, .wzor6{
+        line-height: 70px;       /* the same as your div height */
+    }
+}
+
+
+@media (min-width: 1080px) {
+      body {
+        font-size: 24px;
+    }
+    #box {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto auto auto auto auto;
+    }
+
+}
