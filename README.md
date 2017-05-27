@@ -19,6 +19,9 @@
 + [html source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/ResponsiveTables.html)
 + [css source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/Assets/responsivetables.css)
 
+### [Mathjax](https://dexiefy.github.io/Techniki-Internetowe/Mathjax.html)
++ [html source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/Mathjax.html)
++ [css source code](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/Assets/Mathjaxcss.css)
 
 ## Egzamin, grupa 1: "Mr Bean"
 - [Piotr Dzięgielewski](https://github.com/dexiefy)
