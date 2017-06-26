@@ -28,14 +28,10 @@
 - [Wojciech Januszek](https://github.com/wojsamjan)
 
 ## Wybrane Projekty
- - [2 - CSS + JS CLOCK](https://wojsamjan.github.io/cssJS_Clock/)
- - [Plik Żrodłowy](https://github.com/wojsamjan/cssJS_Clock/blob/master/index.html)
+ - [2 - CSS + JS CLOCK](https://wojsamjan.github.io/myGulp501/css_js_clock.html)
+ - [Plik Żrodłowy](https://github.com/wojsamjan/myGulp501/blob/master/docs/css_js_clock.html)
  - [5 - Flex Panels Image Gallery](https://dexiefy.github.io/Techniki-Internetowe/FlexPanels.html)
  - [Plik Żrodłowy](https://github.com/dexiefy/Techniki-Internetowe/blob/master/docs/FlexPanels.html)
- - [13 - Slide In On Scroll](https://wojsamjan.github.io/slideInOnScroll/)
- - [Plik Żrodłowy](https://github.com/wojsamjan/slideInOnScroll/blob/master/index.html)
+ - [13 - Slide In On Scroll](https://wojsamjan.github.io/myGulp501/slide_in_on_scroll.html)
+ - [Plik Żrodłowy](https://github.com/wojsamjan/myGulp501/blob/master/docs/slide_in_on_scroll.html)
 
-### Projekty powstały w oparciu o [JS 30 Days Coding challange](https://javascript30.com/)
-#### Przydatne Linki:
-- [CSS Tricks - Flexbox snippets](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox tutorial](https://flexbox.io/)
